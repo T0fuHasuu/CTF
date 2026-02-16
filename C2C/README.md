@@ -1,4 +1,4 @@
-# This Will Be The C2C CTF WriteUp Main Page
+# C2C CTF WriteUp Main Page
 
 ### **Author : THY DAYUTH**
 
