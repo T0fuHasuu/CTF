@@ -7,7 +7,7 @@
 ### **Writeup Menu :**
 
 ### Blockchain
-- [tge](./tge/README.md)
+- [tge](./tge)
 - [nexus](./nexus/README.md)
 - [Covergence](./Covergence/README.md)
 
