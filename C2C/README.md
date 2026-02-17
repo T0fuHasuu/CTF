@@ -8,23 +8,23 @@
 
 ### Blockchain
 - [tge](./tge)
-- [nexus](./nexus/README.md)
-- [Covergence](./Covergence/README.md)
+- [nexus](./nexus)
+- [Covergence](./Covergence)
 
 ### Crypto
-- [big guy](./big%20guy/README.md)
+- [big guy](./big%20guy)
 
 ### Forensics
-- [Log](./Log/README.md)
+- [Log](./Log)
 
 ### Misc
-- [welcome](./welcome/README.md)
-- [JinJail](./JinJail/README.md)
+- [welcome](./welcome)
+- [JinJail](./JinJail)
 
 ### Reverse
-- [bunaken](./bunaken/README.md)
+- [bunaken](./bunaken)
 
 ### Web
-- [The Soldier of God, Rick](./The%20Soldier%20of%20God,%20Rick/README.md)
-- [corp-mail](./corp-mail/README.md)
+- [The Soldier of God, Rick](./The%20Soldier%20of%20God,%20Rick)
+- [corp-mail](./corp-mail)
 
