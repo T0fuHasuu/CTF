@@ -59,7 +59,7 @@ require(preTGEBalance[msg.sender][tier] > preTGESupply[tier], "not eligible");
 
 > I wrote a quick Foundry script to chain it all together. First, I bought Tier 1 with my 15 tokens. Then, I called `setup.enableTge(false)` to force a snapshot where the higher tier supplies were 0, and immediately called `setup.enableTge(true)` to reactivate the upgrade window. Finally, I just called `upgrade(2)` and `upgrade(3)`, which succeeded for free thanks to the logic flaw. After the script finished, I just clicked the Flag button on the dashboard to verify my Tier 3 status.
 
-**Exploit.s.sol**
+Make File in dir script/**Exploit.s.sol**
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
