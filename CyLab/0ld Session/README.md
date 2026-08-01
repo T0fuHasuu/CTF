@@ -3,11 +3,12 @@
 > **Cylab Security Academy — Web Exploitation CTF**
 
 
-| Content | Section                                         |
-|   :---  | ----------------------------------------------- |
+| Content | Section                                             |
+|   :---  | ----------------------------------------------------|
 |   1     | **[Challenge Information](#challenge-information)** |
 |   2     | **[Walkthrough](#walkthrough)**                     |
 |   3     | **[Flag](#flag)**                                   |
+|   4     | **[Guide Video](#guide)**                           |
 
 
 ## **Challenge Information**
@@ -120,6 +121,8 @@ picoCTF{s3t_s3ss10n_3xp1rat10n5_10f20509}
 
 </details>
 
-
 ## **Well ... It's not too bad right**
 ![Easy, right?](https://media1.tenor.com/m/9Nr32cJWZ8oAAAAd/catto.gif)
+
+## **Guide**
+<video controls src="20260801-1845-52.1476184.mp4" title="Guide"></video>
